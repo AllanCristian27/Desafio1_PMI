@@ -1,0 +1,33 @@
+body{max-width: 80%;
+margin-left: 100px;
+margin-right: 100px;
+background-image: url(images/fundo.png);}
+
+.pag2{background-image: url(images/fundo2.png);}
+.pag3{background-image: url(images/fundo2.png);}
+
+
+header{display: flex;
+justify-content: space-between;
+padding: 5px;
+}
+
+.logo{margin-left: 20px;}
+
+.link{margin-right: 60px;
+padding-top: 15px;}
+
+
+figure{display: flex;
+justify-content: center;}
+
+.texto1{text-align: left;
+margin-left: 50px;}
+
+.texto2{text-align: justify;
+margin-right: 50px;
+margin-left: 50px;}
+
+footer{display: flex;
+justify-content: center;}
+
